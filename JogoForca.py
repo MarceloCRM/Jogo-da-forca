@@ -98,7 +98,8 @@ while vidas > 0: # Loop do jogo. Ele se encerrado quando não restam mais vidas 
     else:
         print('\nVocê venceu o jogo! :)')
         print('A palavra era: ',palavraDois)
+        input('\nPressione ENTER para sair.')
         exit()
 print('\nVocê perdeu. :(')
 print('A palavra era: ',palavraDois)
-input()
+input('\nPressione ENTER para sair.')
