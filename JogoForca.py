@@ -32,7 +32,7 @@ palavrasExtrema = [
 # Loop para escolher a dificuldade.
 flag = True
 while flag:
-    print('''Escolha a dificuldade:
+    print('''Escolha a dificuldade: 
 1 - Fácil.
 2 - Médio.
 3 - Difícil.
