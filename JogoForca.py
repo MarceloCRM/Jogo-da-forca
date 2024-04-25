@@ -101,3 +101,4 @@ while vidas > 0: # Loop do jogo. Ele se encerrado quando não restam mais vidas 
         exit()
 print('\nVocê perdeu. :(')
 print('A palavra era: ',palavraDois)
+input()
